@@ -1,0 +1,9 @@
+file_format: "1"
+id: euler
+name: Euler
+type: shield
+url: https://github.com/keets35/zmk-config-euler.git
+requires: [nice_nano_v2]
+exposes: [i2c_oled]
+features:
+  - keys
